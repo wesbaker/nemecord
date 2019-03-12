@@ -1,6 +1,6 @@
 # Nemecord
 
-[![Travis](https://img.shields.io/travis/wesbaker/nemecord.svg)](https://travis-ci.org/wesbaker/nemecord)
+[![CircleCI](https://circleci.com/gh/wesbaker/nemecord.svg?style=svg)](https://circleci.com/gh/wesbaker/nemecord)
 [![Code Climate](https://codeclimate.com/github/wesbaker/nemecord/badges/gpa.svg)](https://codeclimate.com/github/wesbaker/nemecord)
 
 A simple way to send [Nemestats][nemestats] plays to Discord:
