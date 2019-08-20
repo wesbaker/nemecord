@@ -24,7 +24,7 @@
     "moxios": "0.4.0"
   },
   "engines": {
-    "node": "8.x"
+    "node": "10.16.3"
   },
   "scripts": {
     "post": "node check.js",
@@ -36,6 +36,8 @@
     "testEnvironment": "node"
   },
   "renovate": {
-    "extends": ["github>wesbaker/renovate-config"]
+    "extends": [
+      "github>wesbaker/renovate-config"
+    ]
   }
 }
